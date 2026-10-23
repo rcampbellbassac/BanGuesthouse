@@ -1,0 +1,37 @@
+{
+ "spec_fit": {
+  "sign_stem_over_height": 0.3143,
+  "sign_width_over_height": 1.4286,
+  "base_height": 563,
+  "base_stem": 26,
+  "nib_w": 220.1
+ },
+ "wdth": 100.0,
+ "scale": 0.7662,
+ "ຄ": {
+  "height": 600,
+  "stems": [
+   489
+  ]
+ },
+ "ງ": {
+  "height": 732,
+  "stems": [
+   189
+  ]
+ },
+ "ມ": {
+  "height": 602,
+  "stems": [
+   188,
+   188
+  ]
+ },
+ "ດ": {
+  "height": 582,
+  "stems": [
+   174,
+   188
+  ]
+ }
+}

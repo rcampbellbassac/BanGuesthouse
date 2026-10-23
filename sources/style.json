@@ -1,0 +1,7 @@
+{"name": "Ban Guesthouse", "slug": "BanGuesthouse", "ink": "a", "body": "ດ",
+ "sign_text": "ນ້ຳຕົກຕາດຟານ (Tad Fane waterfall)",
+ "notes": "Calm folk lettering cut from board: even round strokes, open counters, small blunt heads, unhurried rhythm.",
+ "labels": {"ນ": [0], "້": [2], "ໍ": [1], "າ": [3], "ຕ": [4], "ົ": [5], "ກ": [6], "ດ": [9], "ພ": [10]},
+ "smooth": 3.0,
+ "nib": {"shape": "round"},
+ "effects": [{"op": "wobble", "amp": 3, "wave": 280}]}
